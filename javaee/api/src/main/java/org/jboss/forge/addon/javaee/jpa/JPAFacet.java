@@ -15,7 +15,6 @@ import org.jboss.forge.addon.projects.Project;
 import org.jboss.forge.addon.projects.facets.ResourcesFacet;
 import org.jboss.forge.addon.resource.DirectoryResource;
 import org.jboss.forge.parser.java.JavaClass;
-import org.jboss.shrinkwrap.descriptor.api.persistence.PersistenceCommonDescriptor;
 
 /**
  * If installed, this {@link Project} supports features from the JPA specification.
